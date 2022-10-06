@@ -1,0 +1,9 @@
+export 'deliveries.page.dart';
+export 'forget_password.page.dart';
+export 'history.page.dart';
+export 'home.page.dart';
+export 'login.page.dart';
+export 'map.page.dart';
+export 'sign_up.page.dart';
+export 'status.page.dart';
+export 'wallet.page.dart';
